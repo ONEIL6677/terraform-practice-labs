@@ -133,3 +133,7 @@ Gain an overview of HashiCorp Vault, a powerful tool for secret management and d
 #### Integrating Terraform with Vault for Secrets
 
 Learn how to integrate Terraform with Vault to manage sensitive data securely. Discover how Vault can be used to store and distribute secrets within configurations.
+
+---
+⭐ *If these 7 labs helped you understand Docker, please give this repository a star!*
+
